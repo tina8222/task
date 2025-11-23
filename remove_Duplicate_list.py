@@ -15,18 +15,20 @@ def removeduplicate(head):
     
     return head
 
-n1 = listnode(1)
-n1 = listnode(1)
-n1 = listnode(2)
-n1 = listnode(3)
-n1 = listnode(3)
-n1 = listnode(4)
+def print_list(gere):
+    vals = []
+    while gere:
+        
 
-n1.next = n1
-n1.next = n1
-n1.next = n1
-n1.next = n1
-n1.next = n1
+
+
+
+
+
+
+
+
+
             
             
 result = removeduplicate(n1)
